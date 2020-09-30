@@ -3,4 +3,4 @@ Example Android app using Recycler View to display a collection of data from an 
 
 ## Screenshot
 
-![image-20200930173456871](.\README.assets\image-20200930173456871.png)
+![image-20200930173456871](README.assets\image-20200930173456871.png)
